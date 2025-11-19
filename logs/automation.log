@@ -1,0 +1,23 @@
+2025-11-18 17:14:40 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
+2025-11-18 17:15:57 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
+2025-11-18 17:17:00 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
+2025-11-18 17:17:04 INFO  TC001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest*****
+2025-11-18 17:17:04 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount
+2025-11-18 17:17:05 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register
+2025-11-18 17:17:05 INFO  TC001_AccountRegistrationTest:30 - Providing Costomer details
+2025-11-18 17:17:06 INFO  TC001_AccountRegistrationTest:59 - ***** finished TC001_AccountRegistrationTest *****
+2025-11-18 17:17:08 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-11-18 17:52:38 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
+2025-11-18 17:52:40 INFO  TC001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest*****
+2025-11-18 17:52:40 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount
+2025-11-18 17:52:40 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register
+2025-11-18 17:52:41 INFO  TC001_AccountRegistrationTest:30 - Providing Costomer details
+2025-11-18 17:52:42 INFO  TC001_AccountRegistrationTest:59 - ***** finished TC001_AccountRegistrationTest *****
+2025-11-18 17:52:44 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-11-18 17:57:02 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
+2025-11-18 17:57:06 INFO  TC001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest*****
+2025-11-18 17:57:06 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount
+2025-11-18 17:57:06 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register
+2025-11-18 17:57:06 INFO  TC001_AccountRegistrationTest:30 - Providing Costomer details
+2025-11-18 17:57:07 INFO  TC001_AccountRegistrationTest:59 - ***** finished TC001_AccountRegistrationTest *****
+2025-11-18 17:57:09 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
