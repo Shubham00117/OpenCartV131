@@ -8,12 +8,13 @@
 	</listeners>
     <!-- Chrome Test on Windows -->
     <test name="Chrome">
-        <parameter name="os" value="linux"/>
+        <parameter name="os" value="mac"/>
         <parameter name="browser" value="chrome"/>
         <classes>
-          <class name="testCases.TC001_AccountRegistrationTest"/>
-          <class name="testCases.TC002_LoginTest"></class>
+         <!-- <class name="testCases.TC001_AccountRegistrationTest"/>-->
+         <!-- <class name="testCases.TC002_LoginTest"></class>-->
           <!--<class name="testCases.TC003_LoginDDT"></class>-->
+          <class name="testCases.TC004_AddToCartTest"></class>
         </classes>
     </test>
 

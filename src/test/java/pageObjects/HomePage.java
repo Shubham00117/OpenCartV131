@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 
 public class HomePage extends BasePage
 {
-	WebDriver driver;
+	
 	
 	public HomePage(WebDriver driver) 
 	{
@@ -17,6 +17,11 @@ public class HomePage extends BasePage
 	@FindBy(xpath = "//span[normalize-space()='My Account']") WebElement lnkmyaccount;
 	@FindBy(xpath = "//a[normalize-space()='Register']") WebElement lnkregister;
 	@FindBy(xpath = "//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Login']") WebElement lnklogin;
+	
+	//product search add to cart
+	
+	@FindBy(xpath = "//input[@placeholder='Search']") WebElement txtSerarch ;
+	@FindBy(xpath = "//button[@class='btn btn-default btn-lg']") WebElement btnSearch;
 	
 	public	void clickMyAccount()
 	{
@@ -31,6 +36,19 @@ public class HomePage extends BasePage
 	public void clickLogin()
 	{
 		lnklogin.click();
+	}
+	
+	//search product method add to cart
+	
+	public void searchProduct()
+	{
+		txtSerarch.sendKeys("iPhone");
+	}	
+	
+	public void ClickSearch() {
+		
+		btnSearch.click();
+		
 	}
 	
 	

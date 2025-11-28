@@ -130,7 +130,7 @@ import org.testng.annotations.Parameters;
 		@AfterClass
 		public	void tearDown()
 		{
-				driver.quit();//quite driver
+//				driver.quit();//quite driver
 		}
 	
 		public String randomString() {
