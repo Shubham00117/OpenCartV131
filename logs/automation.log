@@ -1,78 +1,33 @@
-2025-11-27 19:45:27 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
-2025-11-27 19:46:38 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
-2025-11-27 19:47:12 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
-2025-11-27 19:47:35 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
-2025-11-27 19:48:15 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
-2025-11-27 19:50:18 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
-2025-11-27 19:50:18 INFO  Utils:112 - [TestNG] Running:
+2025-12-01 18:06:15 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
+2025-12-01 18:06:52 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
+2025-12-01 18:06:52 INFO  Utils:112 - [TestNG] Running:
   /Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml
 
-2025-11-27 19:53:04 DEBUG TestNG:82 - suiteXmlPath: "/var/folders/yc/wbsm0cns4xl2dtcyv_rrvk280000gn/T/testng-eclipse-1445370424/testng-customsuite.xml"
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-11-27 19:53:04 INFO  Utils:112 - [TestNG] Running:
-  /private/var/folders/yc/wbsm0cns4xl2dtcyv_rrvk280000gn/T/testng-eclipse-1445370424/testng-customsuite.xml
-
-2025-11-27 19:53:04 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 1 ms.
-2025-11-27 19:53:08 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@3e6f3bae: 31 ms
-2025-11-27 19:53:08 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@73d69c0f: 0 ms
-2025-11-27 19:53:08 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@2160e52a: 4 ms
-2025-11-27 19:53:08 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4303b7f0: 2 ms
-2025-11-27 19:53:08 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1450078a: 1 ms
-2025-11-27 19:53:08 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@c68a5f8: 0 ms
-2025-11-27 19:55:13 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
-2025-11-27 19:55:13 INFO  Utils:112 - [TestNG] Running:
+2025-12-01 18:07:20 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
+2025-12-01 18:07:20 INFO  Utils:112 - [TestNG] Running:
   /Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml
 
-2025-11-27 20:02:41 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
-2025-11-27 20:02:41 INFO  Utils:112 - [TestNG] Running:
+2025-12-01 18:13:51 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
+2025-12-01 18:13:51 INFO  Utils:112 - [TestNG] Running:
   /Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml
 
-2025-11-27 20:03:03 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
-2025-11-27 20:03:03 INFO  Utils:112 - [TestNG] Running:
+2025-12-01 18:15:49 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
+2025-12-01 18:15:49 INFO  Utils:112 - [TestNG] Running:
   /Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml
 
-2025-11-27 20:16:07 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
-2025-11-27 20:16:07 INFO  Utils:112 - [TestNG] Running:
+2025-12-01 18:16:49 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
+2025-12-01 18:16:49 INFO  Utils:112 - [TestNG] Running:
   /Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml
 
-2025-11-27 20:18:14 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
-2025-11-27 20:18:14 INFO  Utils:112 - [TestNG] Running:
+2025-12-01 18:34:16 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
+2025-12-01 18:34:16 INFO  Utils:112 - [TestNG] Running:
   /Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml
 
-2025-11-27 20:18:54 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
-2025-11-27 20:18:54 INFO  Utils:112 - [TestNG] Running:
+2025-12-01 18:34:39 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
+2025-12-01 18:34:39 INFO  Utils:112 - [TestNG] Running:
   /Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml
 
-2025-11-27 20:20:46 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
-2025-11-27 20:20:46 INFO  Utils:112 - [TestNG] Running:
+2025-12-01 18:36:35 DEBUG TestNG:82 - suiteXmlPath: "/Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml"
+2025-12-01 18:36:35 INFO  Utils:112 - [TestNG] Running:
   /Users/shubham_infinity/Desktop/test1/OpenCartV131/master.xml
 

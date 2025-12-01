@@ -22,6 +22,10 @@ public class HomePage extends BasePage
 	
 	@FindBy(xpath = "//input[@placeholder='Search']") WebElement txtSerarch ;
 	@FindBy(xpath = "//button[@class='btn btn-default btn-lg']") WebElement btnSearch;
+	@FindBy(xpath = "//span[normalize-space()='Checkout']") WebElement btnCheckout;
+	@FindBy(xpath = "//span[normalize-space()='Wish List (0)']") WebElement btnWishList;
+	
+	
 	
 	public	void clickMyAccount()
 	{
@@ -48,6 +52,21 @@ public class HomePage extends BasePage
 	public void ClickSearch() {
 		
 		btnSearch.click();
+		
+	}
+	
+	//Checkout Product Method
+	public void clickCheckout() 
+	{
+		btnCheckout.click();
+		
+	}
+	
+	//WishList Product
+	public void ClickWishList()
+	{
+		
+		btnWishList.click();
 		
 	}
 	

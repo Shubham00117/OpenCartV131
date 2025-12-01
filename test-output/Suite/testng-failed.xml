@@ -8,13 +8,13 @@
     <parameter name="os" value="mac"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC004_AddToCartTest">
+      <class name="testCases.TC006_WishList">
         <methods>
           <include name="tearDown"/>
-          <include name="verifyAddToCart"/>
+          <include name="verifyWishList"/>
           <include name="SetUp"/>
         </methods>
-      </class> <!-- testCases.TC004_AddToCartTest -->
+      </class> <!-- testCases.TC006_WishList -->
     </classes>
   </test> <!-- Chrome(failed) -->
 </suite> <!-- Failed suite [Suite] -->
